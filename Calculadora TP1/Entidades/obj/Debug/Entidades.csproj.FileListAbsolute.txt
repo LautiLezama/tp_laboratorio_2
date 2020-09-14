@@ -1,0 +1,6 @@
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lautaro\Desktop\Facultad Programa\Calculadora TP1\Entidades\obj\Debug\Entidades.pdb
