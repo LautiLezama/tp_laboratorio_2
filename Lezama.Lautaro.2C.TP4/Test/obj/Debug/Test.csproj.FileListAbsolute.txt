@@ -1,0 +1,10 @@
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\bin\Debug\Test.exe
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\bin\Debug\Test.pdb
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\obj\Debug\Test.exe
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\obj\Debug\Test.pdb
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\Lautaro\Desktop\Facultad\TP4\Lezama.Lautaro.2C.TP4\Test\obj\Debug\Test.csproj.CopyComplete
